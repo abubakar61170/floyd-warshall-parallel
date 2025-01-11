@@ -38,7 +38,7 @@ This project implements the **Floyd-Warshall algorithm** to compute the shortest
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/floyd-warshall-parallel.git
+   git clone https://github.com/abubakar61170/floyd-warshall-parallel.git
    cd floyd-warshall-parallel
    ```
 
@@ -62,7 +62,7 @@ This project implements the **Floyd-Warshall algorithm** to compute the shortest
    Execute the Python script using the following command:
 
    ```bash
-   python floyd_warshall.py
+   python main.py
    ```
 
 2. **Customize Parameters**
